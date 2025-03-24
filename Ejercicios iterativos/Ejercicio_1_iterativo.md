@@ -12,4 +12,19 @@
         Intervalo de colectivos: 15 minutos
         
         Cantidad de colectivos: 20
-        ``` 
+        ```
+
+    - Requisito extra:
+        - Mostrar la cantidad de colectivos que llegaron fuera del intervalo en el horario indicado
+            - Usar azar para simular aleatoriamente cuales no cumplieron con su hora de llegada
+
+        - Ejemplo de resultado final:
+            ```
+            ### Informe de colectivos###
+
+            Rango de horario: 900 a 1400
+            Intervalo de colectivos: 15 minutos
+            
+            Cantidad de colectivos: 20
+            Cantidad que no cumplieron con horario: 4
+            ```
