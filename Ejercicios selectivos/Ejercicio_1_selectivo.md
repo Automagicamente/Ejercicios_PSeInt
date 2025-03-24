@@ -1,6 +1,6 @@
 ### Ofertas en supermercado
 
-- Los días jueves y viernes se aplican descuentos del 25% al total de la compra realizada, el resto de los días no aplican ofertas
+- Los días jueves y viernes se aplican descuentos del 25% al total de la compra realizada, el resto de los días no aplican ofertas, recibir el total de la compra y aplicar el descuento si corresponde
     - Simular dicha operacion con un diagrama de flujo y pseudocodigo
     - Ejemplo de resultado final CON descuento:
         ```
