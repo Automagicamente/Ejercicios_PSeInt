@@ -1,5 +1,3 @@
-### Ej2 inicial
-
 - Crear 1 vector que contenga 3 elementos
 - Tiene que tener elementos SOLO del mismo tipo de dato (String, Number, Boolean)
 - Eliminar el segundo elemento usando `splice`

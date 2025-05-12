@@ -1,5 +1,3 @@
-### Ej2 inicial
-
 - Crear 3 vectores que contengan 3 elementos
 - Tiene que tener elementos SOLO del mismo tipo de dato (String, Number, Boolean)
 - Imprimir en consola el segundo elemento de cada vector creado

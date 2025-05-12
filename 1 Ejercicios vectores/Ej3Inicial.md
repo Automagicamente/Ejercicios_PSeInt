@@ -1,5 +1,3 @@
-### Ej1 inicial
-
 - Crear 1 vector que contenga 7 elementos
 - Usar diferentes tipos de dato (String, Number, Boolean)
 - Modificar en consola el primer, cuarto y último elemento por separado usando el vector creado
