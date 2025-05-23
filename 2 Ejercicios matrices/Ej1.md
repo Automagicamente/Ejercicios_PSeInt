@@ -17,8 +17,8 @@
     - Ejemplo de resultado:
         ```
         Ingrese inicial del día a revisar tareas L-M-Mi-J-V-S-D?
-        V
-        ### Mostrando 1 tarea/s del día Viernes ###
+        S
+        ### Mostrando 1 tarea/s del día Sabado ###
 
             Tarea Nº 1: Practicar programacion
 
