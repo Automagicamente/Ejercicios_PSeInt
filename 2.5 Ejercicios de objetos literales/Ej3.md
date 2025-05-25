@@ -85,3 +85,14 @@
         ]
 
         ``` 
+
+---
+
+<br>
+<br>
+<br>
+<br>
+
+- Extras
+    1. Investigar como evitar que un objeto literal sea alterado una vez creado en todas sus propiedades
+    1. Investigar como evitar que _**solo**_ algunas de las propiedades de un objeto literal sean eliminadas
