@@ -3,7 +3,6 @@
     - Cada tarea tiene propiedades de:
         1. Titulo
         1. Fecha creacion
-            - Por defecto la actual
         1. Terminada
 
     - Ejemplo de resultado:
@@ -21,9 +20,9 @@
 
         [
             [
-                { titulo: 'Lavar ropa', fechaInicio: '23/5/2025', terminada: false },
-                { titulo: 'Ordenar cuarto', fechaInicio: '23/5/2025', terminada: false },
-                { titulo: 'Practicar programacion', fechaInicio: '23/5/2025', terminada: false }
+                { titulo: 'Lavar ropa', fechaInicio: '11/3/2023', terminada: false },
+                { titulo: 'Ordenar cuarto', fechaInicio: '7/2/2025', terminada: true },
+                { titulo: 'Practicar programacion', fechaInicio: '23/5/2024', terminada: false }
             ],
             [],
             [],

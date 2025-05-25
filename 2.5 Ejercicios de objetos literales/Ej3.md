@@ -8,12 +8,11 @@
 
     - Tareas disponibles:
         - Lunes:
+            1. Lavar ropa
             1. Jugar con mascota
         - Miercoles:
             1. Ordenar cuarto
             1. Ejercicio
-        - Viernes:
-            1. Practicar programacion
     - Ejemplo de resultado:
         ```
         Seleccione dia a modificar:  L-M-Mi-J-V-S-D
@@ -22,18 +21,32 @@
             1- Lavar ropa
             2- Jugar con mascota
         
-        Que tarea desea eliminar?
+        Seleccione una tarea?
         1
 
         Propiedades en Lavar ropa:
             1- titulo: Lavar ropa
-            2- fechaInicio: 23/5/2025
+            2- fechaInicio: 10/10/2010
             3- terminada: false
         Que propiedad necesitas eliminar ?
         2   
-        ### Eliminando propiedad fechaInicio del día Lunes ###
+        ### Eliminando propiedad 'fechaInicio' del día Lunes ###
 
-        [["Jugar con mascota"],[],["Ordenar cuarto", "Cocinar", "Ejercicio"],[],["Practicar programacion"],[],[]]
+        [
+            [
+                { titulo: 'Lavar ropa', terminada: false },
+                { titulo: 'Jugar con mascota', fechaInicio: '10/10/2010', terminada: false }
+            ],
+            [],
+            [
+                { titulo: 'Ordenar cuarto', fechaInicio: '10/10/2010', terminada: false },
+                { titulo: 'Ejercicio', fechaInicio: '10/10/2010', terminada: true }
+            ],
+            [],
+            [],
+            [],
+            []
+        ]
 
         ``` 
     - Ejemplo de resultado:
@@ -41,16 +54,34 @@
         Seleccione dia a modificar:  L-M-Mi-J-V-S-D
         Mi
                 ***Mostrando tareas del día Miercoles**
-            1- Ordenar cuarto
-            2- Cocinar
-            3- Ejercicio
-
+            1. Ordenar cuarto
+            2. Ejercicio
         
-        Que tarea desea eliminar?
+        Seleccione una tarea?
         2
 
-        ### Eliminando tarea Nº2 del día Miercoles ###
+        Propiedades en Lavar ropa:
+            1- titulo: Lavar ropa
+            2- fechaInicio: 10/10/2010
+            3- terminada: false
+        Que propiedad necesitas eliminar ?
+        3   
+        ### Eliminando propiedad 'terminada' del día Miercoles ###
 
-        [["Lavar ropa", "Jugar con mascota"],[],["Ordenar cuarto", "Ejercicio"],[],["Practicar programacion"],[],[]]
+        [
+            [
+                { titulo: 'Lavar ropa', terminada: false },
+                { titulo: 'Jugar con mascota', fechaInicio: '10/10/2010', terminada: false }
+            ],
+            [],
+            [
+                { titulo: 'Ordenar cuarto', fechaInicio: '10/10/2010', terminada: false },
+                { titulo: 'Ejercicio', fechaInicio: '10/10/2010'}
+            ],
+            [],
+            [],
+            [],
+            []
+        ]
 
         ``` 

@@ -3,7 +3,6 @@
     - Cada tarea tiene propiedades de:
         1. Titulo
         1. Fecha creacion
-            - Por defecto la actual
         1. Terminada
 
     - Lista de tareas inicial: 
@@ -20,7 +19,7 @@
 
             Tarea Nº 1:
                 - Lavar ropa
-                - 25/5/2025
+                - 2/3/2025
                 - Sin terminar
 
         ### Fin de tareas ###
@@ -33,8 +32,8 @@
 
             Tarea Nº 1: 
                 - Practicar programacion
-                - 25/5/2025
-                - Sin terminar
+                - 17/11/2023
+                - Terminada
 
         ### Fin de tareas ###
         ``` 
