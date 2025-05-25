@@ -13,6 +13,7 @@
         - Miercoles:
             1. Ordenar cuarto
             1. Ejercicio
+            
     - Ejemplo de resultado:
         ```
         Seleccione dia a modificar:  L-M-Mi-J-V-S-D
